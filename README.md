@@ -1,4 +1,4 @@
-                                               INSTALL DUINO CLUSTER WORKER ON IPHONE
+                                                INSTALL DUINO CLUSTER WORKER ON IPHONE
 					                        BY Doofus4ever
 										 
 **DISCLOSURE**
