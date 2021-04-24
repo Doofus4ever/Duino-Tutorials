@@ -58,4 +58,4 @@ yourself a pat on the back you did it you have duino mining on your Iphone
 
 **Before you go...**
 
-If you liked this document please send a small donation any amount will be appreciated send Donation to: Doofus4ever
+If you liked this document please send a small Duino-Coin donation any amount will be appreciated send Duino-Coin Donations to: Doofus4ever
