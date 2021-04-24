@@ -56,5 +56,6 @@ you can change it to your device name although you dont have to. Press ctrl and 
 Now just type "python3 cluster_worker.py" and give it a couple of seconds Bingo its mining if you made it to the end give 
 yourself a pat on the back you did it you have duino mining on your Iphone
 
+**Before you go...**
 
 If you liked this document please send a small donation any amount will be appreciated send Donation to: Doofus4ever
