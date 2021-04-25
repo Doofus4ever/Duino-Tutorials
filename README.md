@@ -20,7 +20,7 @@ name) to install programs/dependencies. Alpine Linux does not have python 3 inst
 **INSTALL PYTHON3**
 
 first create a folder by using command "mkdir python3" (note u dont have to use sudo) after that type "cd python3" to enter
-the folder u created next type this long command that downloads the files for python3 from github and add to repo list:
+the folder u created next type "apk add wget" to install wget so u can download the files from the internet next type this long command that downloads the files for python3 from github and add to repo list:
 wget -qO- http://dl-cdn.alpinelinux.org/alpine/v3.12/main/x86/apk-tools-static-2.10.5-r1.apk | tar -xz sbin/apk.static && ./sbin/apk.static add apk-tools && rm sbin/apk.static
 after it finishes doing its thing that you will be able to install python3 using command "apk add python3" when its done yay
 you have installed python3 next install gcc compiler "apk add gcc" next install python3-dev type "apk add python3-dev"
