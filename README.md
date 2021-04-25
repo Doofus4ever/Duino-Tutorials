@@ -6,7 +6,7 @@
 Firstly thank you for taking the time to read this document i will explain how i got Duino-Coin miner running on my iphone
 please note this is the cluster worker i got running on the Iphone. Full disclosure i am not responsible for any damages
 caused to your iphone if u decide to mine with any iphone/android phone make sure you take off any phone covers you have to 
-allow the heat to dissapate and put a fan near the phone to cool it. Before you continue make sure you have the cluster master
+allow the heat to dissapate and put a fan near the phone to cool it. Before you continue make sure you have the cluster server
 running on your network so the Iphone can find it.
 
 
