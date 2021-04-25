@@ -46,8 +46,8 @@ the latest dependencies or else pip3 will install legacy dependencies type "pip3
 next install dependencies py-cpuinfo, colorama, requests, pyserial, pypresence, tronpy, cryptography all using command
 "pip3 install (PACKAGE NAME)" once you have done this. we need to type "cd" to go to root directory now we have to clone the 
 github page of the cluster miner type "git clone https://github.com/DoctorEenot/DuinoCoin_cluster.git" after that type 
-"cd DuinoCoin_cluster" to enter the file next type "nano cluster_worker.py" and comment out the 2 line "xxhash" just type # 
-in front of xxhash so it reads #xxhash next scroll down till u find the line that has:
+"cd DuinoCoin_cluster" to enter the file next type "nano cluster_worker.py" and delete out line 2 that says "xxhash" 
+next scroll down till u find the line that has:
 CLUSTER_SERVER_ADDRESS = ('192.168.1.2',9090) replace the ip address with the ip your sever is running on, WORKER_NAME = 'TEST'
 you can change it to your device name although you dont have to. Press ctrl and s to save then ctrl and x to exit the editor
 
